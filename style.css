@@ -206,7 +206,69 @@ footer{
 @media (max-width: 320px) {
     .main-container h1{
     text-align: center;
-     
-    
-     
-    }}
+    }
+
+    .modal{
+        
+    }
+  
+    .modal-content{
+        width: 70%;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 620px) {
+    .main-container h1{
+    text-align: center;
+    }
+
+    .modal{
+        
+    }
+  
+    .modal-content{
+        width: 85%;
+        text-align: center;
+    }
+
+}
+
+
+@media (max-width: 768px) {
+    .main-container h1{
+    text-align: center;
+    }
+
+    .modal{
+        
+    }
+  
+    .modal-content{
+        width: 90%;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .main-container h1{
+    text-align: center;
+    }
+
+    .modal{
+        
+    }
+  
+    .modal-content{
+        width: 70%;
+        text-align: center;
+    }
+
+}
+
+
+
+
+
