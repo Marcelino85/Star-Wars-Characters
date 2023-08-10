@@ -222,6 +222,7 @@ footer{
 @media (max-width: 620px) {
     .main-container h1{
     text-align: center;
+    
     }
 
     .modal{
@@ -253,8 +254,9 @@ footer{
 }
 
 @media (max-width: 992px) {
-    .main-container h1{
+    .title{
     text-align: center;
+   
     }
 
     .modal{
